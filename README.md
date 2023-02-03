@@ -1,4 +1,4 @@
-# Some-Every-Exercise <br>
+# Some-Every-Assignment <br>
 Write the functions below and ensure that the tests pass, you can find the tests in the downloaded code.<br>
 
 hasOddNumber<br>
